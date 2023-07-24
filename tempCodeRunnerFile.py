@@ -1,0 +1,1 @@
+C:/Users/ADMIN/Documents/VS_Code/Cpp_Image/convert1.bmp
